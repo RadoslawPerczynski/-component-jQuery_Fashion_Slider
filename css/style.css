@@ -1,0 +1,106 @@
+body {
+    background: linear-gradient(rgba(48,39,216,.4), rgba(48,39,216,.4)), url('../images/backgrounds/1.jpeg');
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
+h1 {
+    font-size: 60px;
+    color: #E9CEE9 ;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
+h2 {
+    color: #C8D5FC;
+    font-size: 40px;
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+.container {
+    background: rgba(000, 000, 000, 0.5);
+    position: relative;
+    width: 70%;
+    min-width: 900px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px black;
+}
+#carousel {
+    margin: 0 auto;
+    width: 750px;
+    height: 500px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+#carousel ul {
+    padding: 0;
+    margin: 0;
+    width: 3750px;
+}
+#carousel li {
+    list-style: none;
+    float: left;
+    width: 750px;
+    height: 500px;
+    position: relative;
+}
+img {
+    height: 500px;
+    width: 750px;
+}
+.caption-container {
+    width: 40%;
+    text-align: right;
+    position: absolute;
+    top: 20%;
+}
+span {
+    display: block;
+    font-size: 32px;
+}
+.spanTop {
+    font-family: 'Parisienne', cursive;
+    font-weight: bold;
+    color: #FEC1CB;
+    margin-right: 20px;
+    text-shadow: 2px 2px 2px black;
+}
+.spanBottom {
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-right: -50px;
+    color: #EA7BA1;
+}
+.slideBtn {
+    display: inline-block;
+    color: #EDF9DC;
+    font-size: 50px;
+    position: absolute;
+    top: 45%;
+    text-shadow: 5px 5px 5px black;
+    transition: .1s;
+}
+.slideBtn:hover {
+    transform: scale(1.4);
+    text-shadow: 5px 5px 15px black;
+}
+.slideBtn:active {
+    transform: scale(1.1);
+    text-shadow: 5px 5px 10px black;
+}
+.slideBtnPrev {
+    left: 0;
+}
+.slideBtnNext {
+    right: 0;   
+}
+footer {
+    color:#EDF9DC;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+
+
