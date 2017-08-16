@@ -1,6 +1,9 @@
 <h1>Simple jQuery Fashion Slider </h1>
 
-<p As I am not iterested in fashion I created fashion carousel :) Why not? :) Built by my own hands and jQuery. </p>
+<p> As I am not interested in fashion I created fashion carousel. Why not? :)
+
+Built by my own hands and jQuery. </p>
+
 <ul>
   <li>Click here to use the <a href="https://radoslawperczynski.github.io/-component-jQuery_Fashion_Slider/" target="_blank"> Live Demo </a></li>
 </ul>
