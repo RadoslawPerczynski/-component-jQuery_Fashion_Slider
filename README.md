@@ -4,12 +4,13 @@
 
 Built by my own hands and jQuery. </p>
 
-<ul>
-  <li>Click here to use the <a href="https://radoslawperczynski.github.io/-component-jQuery_Fashion_Slider/" target="_blank"> Live Demo </a></li>
-</ul>
 
 ![slider](https://user-images.githubusercontent.com/28759821/29360010-40060c16-8281-11e7-9ed5-7db5a0f1f05d.jpg)
 
+
+<ul>
+  <li>Click here to use the <a href="https://radoslawperczynski.github.io/-component-jQuery_Fashion_Slider/" target="_blank"> Live Demo </a></li>
+</ul>
 
 <hr>
 
@@ -26,8 +27,8 @@ Built by my own hands and jQuery. </p>
   <li>Git</li>
   <li>CSS</li>
   <li>HTML</li>
-  <li>My own design</li>
-  <li>A pinch of magic</li>
+  <li>MY OWN DESIGN</li>
+  <li>A PINCH OF MAGIC</li>
 </ul>
 
 <hr>
